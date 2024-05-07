@@ -1,0 +1,61 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.6.1)
+  - Alamofire (4.9.1)
+  - FloatRatingView (4.0)
+  - GoogleMaps (3.10.0):
+    - GoogleMaps/Maps (= 3.10.0)
+  - GoogleMaps/Base (3.10.0)
+  - GoogleMaps/Maps (3.10.0):
+    - GoogleMaps/Base
+  - GooglePlaces (3.10.0):
+    - GoogleMaps/Base (= 3.10.0)
+  - GooglePlacesSearchController (0.2.3)
+  - IQKeyboardManagerSwift (6.5.6)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - SDWebImage (5.9.2):
+    - SDWebImage/Core (= 5.9.2)
+  - SDWebImage/Core (5.9.2)
+  - SideMenu (6.4.9)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire (~> 4.9.1)
+  - FloatRatingView (~> 4)
+  - GoogleMaps
+  - GooglePlaces
+  - GooglePlacesSearchController
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView (~> 4.8.0)
+  - SDWebImage
+  - SideMenu (~> 6.0)
+
+SPEC REPOS:
+  trunk:
+    - ActionSheetPicker-3.0
+    - Alamofire
+    - FloatRatingView
+    - GoogleMaps
+    - GooglePlaces
+    - GooglePlacesSearchController
+    - IQKeyboardManagerSwift
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SideMenu
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: d7a91adbc3aa8126aadc070f1276b14216bfadd4
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  FloatRatingView: bb6bdddfbeec51b1d387b4bd50abc27b4dfccd48
+  GoogleMaps: 8c080862ff2748ece9929471b30feb56a6c5079d
+  GooglePlaces: 9a6f5f3a0c88da2aa1bf7426a65d3e004f5e69a1
+  GooglePlacesSearchController: f8c7da8c3bf0bcf901c5873c22fda7db5fbfc15e
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  SDWebImage: 0b42b8719ab0c5257177d5894306e8a336b21cbb
+  SideMenu: 8ef57a3cfc024a2d3fc1c036c7fe98537baec9e0
+
+PODFILE CHECKSUM: 5ec0d4935dab7b49f175a7b3cd0a71946e1b6098
+
+COCOAPODS: 1.9.3
